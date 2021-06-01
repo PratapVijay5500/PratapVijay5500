@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratapVijay5500
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in web and app development
+- 🌱 I’m currently learning various types of frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
